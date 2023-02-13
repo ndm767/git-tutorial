@@ -1,2 +1,2 @@
 # git-tutorial
-this is a readme
+This is the README
